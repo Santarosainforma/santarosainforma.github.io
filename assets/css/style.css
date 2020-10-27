@@ -9,7 +9,7 @@ License: GPL
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
-body{background:#f5f5f5}
+body{background:#ffff99}
 ul{padding:0; margin:0; list-style:none}
 a{text-decoration:none; color:#2f2f2f}
 a:hover{color:#646464; text-decoration:none}
@@ -54,7 +54,7 @@ img:hover{opacity:0.75}
 .header_top_left{float:left; display:inline; width:50%}
 .top_nav{text-align:left}
 .top_nav li{display:inline-block}
-.top_nav li a{display:inline-block; border-right:1px solid #333; color:#fff; font-size:11px; font-weight:bold; padding:20px 15px; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
+.top_nav li a{display:inline-block; border-right:1px solid #cc3300; color:#fff; font-size:11px; font-weight:bold; padding:20px 15px; text-transform:uppercase; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .top_nav li a:hover{background-color:#d083cf}
 .header_top_right{float:left; display:inline; width:50%; text-align:right}
 .header_top_right > p{color:#fff; display:inline-block; float:right; font:bold 12px sans-serif; margin-bottom:0; padding-bottom:20px; padding-right:8px; padding-top:20px}
@@ -68,7 +68,7 @@ img:hover{opacity:0.75}
 .add_banner img{width:100%; height:100%}
 #navArea{float:left; display:inline; width:100%; padding:0 30px; background-color:#fff}
 .navbar{border:medium none; border-radius:0}
-.navbar-inverse .navbar-nav > li > a{border-left:1px solid #383838; color:#ddd; font-family:'Oswald',sans-serif; display:inline-block; height:50px; line-height:50px; padding:0 14px; text-shadow:0 1px 1px #000; text-transform:uppercase; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
+.navbar-inverse .navbar-nav > li > a{border-left:1px solid #800000; color:#ddd; font-family:'Oswald',sans-serif; display:inline-block; height:50px; line-height:50px; padding:0 14px; text-shadow:0 1px 1px #000; text-transform:uppercase; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .navbar-inverse .navbar-nav > li:first-child a{border:none}
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{ color:#fff}
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{ color:#fff}
@@ -135,7 +135,7 @@ img:hover{opacity:0.75}
 .bsbig_fig{width:100%}
 .bsbig_fig > a{display:block}
 .bsbig_fig > a img{width:100%}
-.bsbig_fig figcaption{color:#333; font-family:"Oswald",sans-serif; font-size:23px; font-weight:300; margin-top:10px; margin-bottom:10px}
+.bsbig_fig figcaption{color:#cc3300; font-family:"Oswald",sans-serif; font-size:23px; font-weight:300; margin-top:10px; margin-bottom:10px}
 .single_post_content_right{float:right; display:inline; width:48%}
 .right_content{float:left; display:inline; width:100%; min-height:300px}
 .spost_nav{}
@@ -181,7 +181,7 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
 .cat-item a{background:none repeat scroll 0 0 #e4e4e4; color:#888; display:block; float:left; border-bottom:none !important; font-size:13px; line-height:12px; margin:0 2px 2px 0; padding:12px 17px; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .cat-item a:hover{color:#fff; text-decoration:none !important}
 .tab-content{margin-top:10px}
-.nav-tabs{background:none repeat scroll 0 0 #333; border-bottom:none}
+.nav-tabs{background:none repeat scroll 0 0 #cc3300; border-bottom:none}
 .nav-tabs > li{margin-bottom:0}
 .nav-tabs > li > a{margin-right:0; color:#fff; font-size:15px; border-radius:0; border:none; font-family:"Oswald",sans-serif; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .nav-tabs > li > a:hover, .nav-tabs > li > a:focus{color:#fff !important; border:none}
@@ -189,7 +189,7 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
 .vide_area{float:left; display:inline; width:100%}
 .sideAdd{display:block; float:left; height:250px; width:100%; margin-top:10px}
 .sideAdd > img{width:100%; height:100%}
-.single_sidebar ul li a{border-bottom:1px solid #333; display:block}
+.single_sidebar ul li a{border-bottom:1px solid #cc3300; display:block}
 .single_sidebar .spost_nav li a{border-bottom:none; float:left}
 #footer{display:inline; float:left; width:100%; margin-bottom:20px}
 .footer_top{background-color:#252525; color:#ddd; display:inline; float:left; padding:10px 30px 48px; width:100%}
@@ -213,7 +213,7 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
 .pagination > li:first-child > a, .pagination > li:first-child > span{border-bottom-left-radius:0; border-top-left-radius:0}
 .pagination > li:last-child > a, .pagination > li:last-child > span{border-bottom-right-radius:0; border-top-right-radius:0}
 .single_page{float:left; display:inline; width:100%}
-.single_page > h1{color:#333; font-family:Oswald,arial,Georgia,serif; font-size:30px; line-height:1.4em; margin:10px 0 -10px; padding:0 0 4px; text-transform:uppercase}
+.single_page > h1{color:#cc3300; font-family:Oswald,arial,Georgia,serif; font-size:30px; line-height:1.4em; margin:10px 0 -10px; padding:0 0 4px; text-transform:uppercase}
 .post_commentbox{display:inline; float:left; width:100%; border-top:1px solid #ddd; border-bottom:1px solid #ddd; margin-top:20px; padding:5px 0px}
 .post_commentbox a, .post_commentbox span{color:#798992; font-size:11px; margin-right:5px}
 .post_commentbox a > i, .post_commentbox span > i{margin-right:5px}
